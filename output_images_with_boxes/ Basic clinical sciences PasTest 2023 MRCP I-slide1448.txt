@@ -1,0 +1,13 @@
+Explanation
+ThemeanofheselectedpopulationfromwardAishiaherhanhemeanofheselected
+oopulationfromwardB
+Mean =Sum ofaulvaues/Numberofvaues
+Median=Themiddlevalue whenrankedfromuowtohiah.
+Mode=Thenumberwiththehiahestfreauency inthesequence.
+Letscalculatethemean.medianand modeforeach ward:
+WardA:
+Mean=731/10=73.1kg
+Median:Theauestionhashelpfulyrankedtheweiahtsfromlowtohiahaureadv Astherearel0patients.
+wettaketheaveraqeofthefifthandsixthvalues.68and77,whichs(68+77)/2=145/2=72.5kq
+Mode:55kqistheonvaluethatappearsmorethanonce.sothisisthemode.
+@1MINENDOCRINE

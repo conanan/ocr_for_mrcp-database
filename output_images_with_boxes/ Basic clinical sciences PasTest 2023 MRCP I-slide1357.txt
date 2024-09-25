@@ -1,0 +1,5 @@
+Explanation
+whenthereisanevennumberofnumoers,themedianisthemeanofthetwomidduenumbers
+whenthereisanevennumberofnumbers.themedianisthemeanofthetwomiddenumbers.For example
+themedianofthenumbers2.4.7and12is4+7)/2=55.
+@1MINENDOCRINE

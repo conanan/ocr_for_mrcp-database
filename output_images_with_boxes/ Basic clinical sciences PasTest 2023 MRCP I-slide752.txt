@@ -1,0 +1,11 @@
+Mutationtypes:
+A missensemutationisanalteration inanucleotidesequencethatconvertsacodonforoneaminoacid
+intoacodonforasecondamino acid.
+An insertion mutationarisesbvtheinsertionofoneor morenucleotides intoaDNA secuence.
+Anonsense mutationisanateration innucleotideseauencethatchanaesatripletcodinafor anamino
+acid intoaterminationcodon.
+point mutation resultsfromasinglenuceotidechangeinaDNA molecule.
+AnothertypeofmutationrelevamtforMRCPPart lisaread-through mutation.whichchangesa
+terminationcodonintoacodonspecifvinq anaminoacidandhenceresults inread-throuahofthe
+termination codon.
+@1MINENDOCRINE

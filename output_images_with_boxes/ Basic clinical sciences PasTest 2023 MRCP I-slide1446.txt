@@ -1,0 +1,6 @@
+Explanation
+Specificitv
+Thespecificitvofatestistheabiuitv ofatesttocorrectlidentifvthosethatdonothavethedisease.Asthe
+numberofpeoplecorrectly picked up asnothavinq thedisease bvthetest has increased,tmust bethe
+specificitythat has increased.
+@1MINENDOCRINE

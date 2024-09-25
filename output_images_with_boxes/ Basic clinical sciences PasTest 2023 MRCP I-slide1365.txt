@@ -1,0 +1,11 @@
+Explanation
+Olderaqewassianificantv associated with auonaeruenath of stay
+A correlationcoefficient indicateswhetherthereisarelationshiobetweentwocontinuousvariables.When
+interpretingacorrelationcoefficiemt.onemustconsider frst whethertisapositive or negative number.and
+alsoitsp-value
+tispositive.thenasonevariable increases.sodoes theother.ftisnegative,thenasone
+variable increases,the other decreases.Thiscorrelation issianifcantifthep-vaueis<0.05(ie.5%).tisaso
+sianificantfthe95%confdence intervasdonot crosszero.
+Thequestionqives usapositivecorrelationcoefficiemt. which demonstrates that as aqe increases. so toodoes
+thelenqthofstay.Theconfdence intervas donotcross zero,so therelationship is significant.
+@1MINENDOCRINE

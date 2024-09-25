@@ -1,0 +1,5 @@
+Explanation
+Spearmansrankcorrelation
+Spearmansrankcorrelationtestsfor an association betweenthenumberofepisodes of PD peritonitisandthe
+rankorderofthefailuretimes.Thisisthemostappropriate statisticautestfor anatysinqthisdataset
+@1MINENDOCRINE

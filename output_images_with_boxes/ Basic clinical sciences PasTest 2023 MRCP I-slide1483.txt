@@ -1,0 +1,24 @@
+Anew screeningtestfordiabetesis introduced andcomparedtotheoratglucosetolerancetest.Thefigures
+frominitjatstudies areshown:
+Totat
+Non-diabetic patient
+Testresut
+Diabetic patient
+20
+54
+Positive
+116
+9830
+9946
+Neqative
+150)
+9850
+TotaL
+10000
+Whatisthesensitivity ofthe new test?
+22.76
+42.3%
+63%
+98.8%%
+90.8%
+@1MINENDOCRINE

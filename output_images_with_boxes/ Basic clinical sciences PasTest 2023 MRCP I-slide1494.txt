@@ -1,0 +1,13 @@
+Inthisauestion,etsturntheproportionsandpercentages intofractionstomaketeasier, instead of dealing in
+decimals.
+So,he996sensitivity becomes99/100.the90%specificityv becomes910or90/100.andtheprevaence
+becomes101000or1100.
+Usinqtheeauationabove:
+PPV=(99/100x1/100)/[99/100×1/100)+1-9/10)x(1-1/100)]
+:99/10000/[99/10000＋110x99/100]
+99/10000/[99/10000＋99/1000]
+:99/10000/1089/10000
+:990000/10890000
+:99/1089
+=1/11
+@1MINNDOCRINE

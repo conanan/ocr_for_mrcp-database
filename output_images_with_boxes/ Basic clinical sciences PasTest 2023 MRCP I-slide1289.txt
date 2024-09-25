@@ -1,0 +1,17 @@
+Explanation
+Theproportionsof patientswhodied withimnthreeyears of starting theirtreatment
+Achi-sauaredtest is any statisticattest based onthecomparisonof atest statistic toachi-sauared
+distribution.Theoldestand mostcommonchi-sauared tests arefor determininq whether two or more
+population distributionsdifferfromoneanother.Thesetests usuallyinvolvecountsofdataand may invove
+comparisonofsamplesfromthedistributionsunder study.orthecomparisonofasampletoatheoreticaly
+expected distribution
+Insimplerterms.achi-sauared est is usedtocompareproportion betweentwoqroupsandcan onuy beused
+tocomparecateaoricaumeasures.Measures areonu comparabeatafxedtmeoointand ausubiects must
+havebeenfouoweduoforthesameamountoftme.
+Therefore.intermsoftheauestion.weareuookingatan answer whereproportionsarecompared,eaving ony
+theproportionsof patients whodied withinfveyears of startingtheirtreatmemtthe proportionsof patients
+whodied withinthreeyearsof startingtheirtreatment andtheproportionsof patiemtswhohaddied whenthe
+study wasterminated.However.becausearanaeisqivenfor folow-up inthestudv. wemustpicktheoption
+atthelowesttimepointoftheranae.becausethisisthelast possiblepointatwhich au patientswiuhavethe
+Samefolow-up.
+DOCRINE

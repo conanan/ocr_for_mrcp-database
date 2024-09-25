@@ -1,0 +1,12 @@
+Explanation
+Reciprocalofabsouteriskreduction
+TheNNTcan becalculated by1/ARR
+Fortheremainderoftheauestion.tishelpfuutohaveaworkinqexample.we wituseapreviousauestionto
+workouttheanswers
+A studyinpatientsaged75andover measures theeffectivenessof warfarin versus aspirin withregardsto
+reduction
+embolicstrokeoveralOmonthperiod.Afterthestudyhascuosedthegrouptreated with warfarin
+hasal.2%riskofembouicstrokeovertheperiodofthetriauwhereasthoseonaspirinhavea24%risk.
+Theabsoluteriskreduction(ARR) = standard treatmentevents aspirin) - new treatmemt events(warfarin)
+2.46-1.26=1.296.NNT=1/ARR=1/0.012=83.3333.
+@1MIN ENDOCRINE

@@ -1,0 +1,13 @@
+5-year,randomisedcontroledtrial
+comparetwotreatmentsforreducinateriskofasecondaryMhas
+justended.Eligible patients wererandomised to oneof thetreatments 4weeksafterthe initial M.trequired2
+yearstorecrutthenumberof patientsneeded toqivethestudv adecuate power.Au patientswerefolowed
+upeithertore-infarctiomortotheendofthestudyTheproportionsofpatientswith re-infarctions were12%
+and166fortreatmentsAandB.respectively.
+Whichoneofthefouowinamethodsisbestfor anauysinqtheresuts fromthisstudy?
+Chi-sauaretest ofre-imfarction proportions
+Cox proportionauhazardsreqression
+Logisticreqression
+Mann-Whitneyu-testofmediantimestore-infarction
+Unpairedt-testof meantimes tore-infarction
+@1MILN NDOCRINE

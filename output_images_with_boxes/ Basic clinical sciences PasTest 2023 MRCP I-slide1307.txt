@@ -1,0 +1,9 @@
+Explanation
+Theauestionasksthecandidatetocalculatetherelativerisk.Relativeriskcomparesthediseaserisk(ie.
+COPD)inpeopleexposedtoacertain factor(i.e.smokers) withdiseaseriskinthosewhohavenot been
+exposedtothefactorinauestion(i.e.non-smokers).
+Therelativeriskiscalculated bvthefolowinqformula:
+Relativerisk(RR)=(incidenceamonqexposed)/(incidenceamonaunexposed)
+Therefore:Incidenceamonqexposed=450/1000=045andIncidenceamonaunexposed=50/1000=0.05.
+Therelativersk=0.45/005=9.
+@1MINENDOCRINE

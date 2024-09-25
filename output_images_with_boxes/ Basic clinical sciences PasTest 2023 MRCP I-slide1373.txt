@@ -1,0 +1,5 @@
+Explanation
+Scatterpot
+Inascatter plot.twocontinuousvariables areplotted againstoneanother.A scatter plot of svstoicblood
+pressureagainst body mass index (BMl) would show any relationship between thetwo.
+@1MINENDOCRINE

@@ -1,0 +1,5 @@
+Explanation
+Chi-sauaredtest
+Achi-sauaredtestisusedtocompare binary outcomes (nthiscase.incidenceornoincidenceofcarcinoma) in
+independent groups (BCCandSCC).
+@1MINENDOCRINE

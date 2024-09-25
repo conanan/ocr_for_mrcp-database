@@ -1,0 +1,4 @@
+Explanation
+Prevalence
+Prevalencedescribesthenumberofcasesexistinqatatimepointandisthecorrect answer
+@1MINENDOCRINE

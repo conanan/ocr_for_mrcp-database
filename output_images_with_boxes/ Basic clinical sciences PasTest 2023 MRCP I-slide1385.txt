@@ -1,0 +1,9 @@
+Explanation
+TherelativeriskratioRRR) istheprobabiuityofan eventoccurrinqintheexposedqroupdivided bvthe
+orobabiuitv of anevent occurrinqintheunexposed group.
+RRRs
+20
+Probabilitv of an event occurrinq in exposedgroup = 0.2
+0.01
+pProbability of event occurrinq in unexposed group
+@1MINENDOCRINE

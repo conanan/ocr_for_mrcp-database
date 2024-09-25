@@ -1,0 +1,7 @@
+Expanation
+Aindependentsamplet-testshouldbeappliedtotestthenulhypothesisthathesamemean
+reductionindiastolicbloodpressureoccurswith eachtreatment
+Anindependentsamplet-testcomparedthemeanoftwoindependentgroups(ie.twoanti-hypertensive
+treatments).tanalyseswhetherthereisstatisticatevidencethatassociated population means are sianificantly
+different.Data should benormally distributed forthet-testtobeapplied.
+@1MINENDOCRINE

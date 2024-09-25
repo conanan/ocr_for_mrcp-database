@@ -1,0 +1,9 @@
+Which oneofthefollowing chemotherapeutic agents is mostlikely to be responsiblefor this patients
+svmptoms?
+Doxorubicin
+Docetaxel
+Cisplatin
+Bleomvcin
+Carboplatin
+20713
+@1MIN ENDOCRINE

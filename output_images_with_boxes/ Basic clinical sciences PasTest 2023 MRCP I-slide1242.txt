@@ -1,0 +1,14 @@
+Youareapproachedabout evaluatinqanewtestfor pancreaticcarcinoma.Djiaqnosis has been confirmed using
+acombinationofCTimaaing,ERCP withcytoloqyandhistoloqy posttumourresection.Results concerningtest
+performanceareuistedbeLow:
+Cancer confirmed
+Cancer notconfrmed
+Testoutcomepositive
+Testoutcomeneaative
+Which ofthefouLowinacorrectuy representsthe positive predictivevauue?
+206
+6996
+85%
+8896
+959%
+@1MIN NDOCRINE

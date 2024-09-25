@@ -1,0 +1,12 @@
+Explanation
+Theprobabilitv of astatistically sianificanttreatmenteffectifhetruetreatmentdifferenceis ata
+prespecifiedueveL
+Thehvpothesisofarandomisedcontrouedtriauisusuavthattherewilbeadifferencebetweentreatment
+andcontrotqroups.Therefore.thenuuhypothesiswilbethatthereisnodifferencebetweentreatment and
+Stud
+theprobability{whichisusually expressed as apercentage
+controtgroups.
+powe
+correctlyrejectingthenulL hypothesiswhent isfalse.Therefore,OptionBisthebestanswer astcorrectly
+fulfillsthecriteriadescribinq power.asweu as statinq thatthe difference is ata prespecifiedleveL.
+@1MINENDOCRINE

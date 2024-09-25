@@ -1,0 +1,6 @@
+Explanation
+Asamolestatisticisapointestimateofapopulationparamete
+Characteristicsofaqivensamolesuchasitsmeanandmedian areknown as sample statistics.Characteristics
+ofapopulationareknownas parametersofpopulation.Thesamplestatistics trytoqiveapoint estimateand
+arenotabsoluteofapopulation parameter meaninathis statement istrue.
+@1MINENDOCRINE

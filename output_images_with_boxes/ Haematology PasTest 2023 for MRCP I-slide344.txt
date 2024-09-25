@@ -1,0 +1,9 @@
+Giventhelikety diagnosis,which oneofthefoLowing isthe mostappropriate investigationto assess the
+prognosis ofher underlyinq disease?
+ER-2 status
+MR spine
+Serum&2-microalobutin
+Serum PINP
+Serum proteinelectrophoresis
+46348
+@1MIN ENDOCRINE

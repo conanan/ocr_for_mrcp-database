@@ -1,0 +1,12 @@
+Thetest performanceofanew screeningtestfor breastcancer in100 subjects is iuustrated below:
+Diseasefree
+Diseaseconfirmec
+Testoutcome+ve
+Testoutcome-ve
+Whatisthesensitivity of thetest?
+15%
+75%
+50%
+816
+93%
+@1MINENDOCRINE

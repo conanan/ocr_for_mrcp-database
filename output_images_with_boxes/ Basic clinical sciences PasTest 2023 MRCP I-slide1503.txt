@@ -1,0 +1,11 @@
+Anaestheticrecoverytimewasrecordedfor 100consecutivepatientsundergoingthesame surgicat procedure.
+Meanand mediantimesfortheprocedurewere40and65minutes respectivelv;thestandarddeviation was
+50andtherange95(20to1
+minutes)
+Whatisthebest way of summarisingthese datafor apaper toamedicaLjourna?
+Mean=40;standarddeviation=50
+Mean=40;standard error
+Meam=40;ranqe=20to115
+Median=65; standard deviation=50
+Median=65;ranqe=20to115
+@1MINENDOCRINE

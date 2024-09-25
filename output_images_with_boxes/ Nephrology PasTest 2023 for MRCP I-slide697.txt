@@ -1,0 +1,7 @@
+Whatisthenext appropriate stepinthe management of this patient?
+Administerciprofloxacin
+Discontinue rifampicin
+Initiatehaemodialysis
+Perform percutaneousnephrostomy
+Performserum protein electrophoresis
+@1MIN ENDOCRINE

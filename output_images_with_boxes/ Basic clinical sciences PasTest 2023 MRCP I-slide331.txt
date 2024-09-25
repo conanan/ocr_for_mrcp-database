@@ -1,0 +1,5 @@
+ExpLanation
+C-peptideceavage isan exampleof post-transtationatmodification
+Pro-insulin iscleaved after manufacturetoproduceinsulinandC-peptide.hencethemodification occurs after
+translation ofmRNA intoprotein.
+@1MINENDOCRINE

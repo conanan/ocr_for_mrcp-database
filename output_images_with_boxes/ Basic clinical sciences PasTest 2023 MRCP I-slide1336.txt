@@ -1,0 +1,13 @@
+immunoglobulinG(gG)evels wascarried
+An observationat study
+humanimmunodefciency virus(HlV)-
+andnon-HiVinfected individuals.Thetwolargegroupsstudied weresimilar withrespecttoaqeand sex;
+therearenootherpotentiaconfoundinafactorsthatneedtobecorrectedfor.TheaGevelsrecordedhada
+positively skewed distribution.
+Whatstatisticau sianifcancetestis bestforcomparinqtheaveraqeldGeves ofthetwogroups?
+Multiplereqression analysisy
+TheChi-squaretest(contingencytableanalysis)
+TheMann-Whiney U-test
+TheSpearmancorrelation coefficient
+TheStudentunpairedttest
+@1MINNDOCRINE

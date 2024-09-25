@@ -1,0 +1,7 @@
+Explanation
+Double-blindparallugroupsRCT
+Arandomisedcontroledtiat(RCT)isthe“aold standard”for evaluatinaanew intervention.Therefore,wecan
+considerdouble-buindparaeuqroupsRCT.double-buindcrossoverRCTandopen-labeu paralet aroupsRCT
+However.themost powerfultriaudesianfordetectinaatrueeffectofthedruqwouldbeadoube-buind
+paralletqroups RCT asthismitiaatesany potentialeffectsof bias. sothisoptionisthebestanswer
+@1MINENDOCRINE

@@ -1,0 +1,7 @@
+Which oneof thefotowing is associated with thecorrect disease?
+LA DR4-ankylosing spondyUitis
+LAB27-Behcetsdisease
+LA B5-haemochromatosis
+LA A3-multiplesclerosis
+LACw6-psoriasis
+@1MIN ENDOCRINE

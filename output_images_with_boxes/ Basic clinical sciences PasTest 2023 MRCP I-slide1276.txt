@@ -1,0 +1,6 @@
+Explanation
+UnpairedTtest
+Thisteststhenuuhypothessthatthepopulationmeansrelatedtotwoindependent.random sampes from an
+approximately normaudistribution areeauau.Inthissituation.our subjiectshavebeen randomised intotwo
+aroupsandhavereceived different medication sothev are independent samples.
+@1MINENDOCRINE

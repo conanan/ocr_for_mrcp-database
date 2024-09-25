@@ -1,0 +1,41 @@
+TABLES.PONr SCALEFOR THEDLAGNOSS0PTYROD SrORM
+Criera
+Crieria
+Poims
+Gastroinestinal-hepacdvsfunction
+Thermoregulatory dysfunctiom
+TemperatuTc("*F)
+Manifestatiom
+Abscmt
+100.0-1009
+Moderac(diamhca.abxdominal pain.nausca/vomitinga)
+101.0-101.9
+Scvere(iaundice
+102.0-102.9
+108.0-108.
+2104.0
+Cardiovascula
+Centralnervoussvstem disturbance
+Tachvcardia(bcats per minutc)
+Mamifcstation
+100-109
+110-11
+Mid(agitation)
+0-129
+Moderatc(delirium.psychosis,cxtremclethary)
+130-139
+Severc(scizure,comt
+Arilfibmilatiom
+Abscnt
+Eredipitant history
+gcstivc heartfailurc
+Abscmt
+Status
+Fositive
+Negative
+Moderale
+Scoresoaled
+Thyroidstorm
+Impendingsomm
+Stom unlikclv
+0CBINE

@@ -1,0 +1,14 @@
+Therapy,Prevention,Etioloqy,Harm:
+1a=Syvstematicreviews (with homoqeneity) ofrandomizedcontroledtrias (RCT)
+1b=lndividuaLRCT(with narrow confidence interval
+1c=Alornone.Metwhenau patientsdied beforetheRx becameavailabe.butsomenow surviveon
+t;orwhensomepatientsdiedbeforetheRxbecameavailable.but nonenowdieont
+2a=SR (withhomogeneity) of cohort studies
+2b= IndividuaL cohort study (including low quality RC;eg.<80%follow-up
+2c="Outcomes"research;Ecoloqicat studies
+3a=SR withhomoqeneity)of case-controL studies
+3b=lndividuaucase-controt study
+:Case-series (and poor auality cohort andcase-controLstudies)
+:Expert opinion withoutexplictcrticatappraisauor basedon physiooqv.benchresearchor"first
+princjples"
+@1MNENDOCRINE

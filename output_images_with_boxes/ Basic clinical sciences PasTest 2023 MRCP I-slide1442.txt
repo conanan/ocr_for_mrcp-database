@@ -1,0 +1,9 @@
+Inaskewed distribution:
+Themeanis“puledtowards”thevalues intheoutlyinqtauofthedistributionandisunrepresentativeof
+thebukofthedata.
+Skew isnamed accordinqtothedirection in whichthetaiu points.
+fthedistributionisskewed.themedianispreferable asasummary ofthedata
+Neqativeskew mode>median>mean
+;Positiveskew: mean>median>mode.
+Therefore.asthemean>median inthisauestion.thisisthecorrectanswer.
+@1MINENDOCRINE

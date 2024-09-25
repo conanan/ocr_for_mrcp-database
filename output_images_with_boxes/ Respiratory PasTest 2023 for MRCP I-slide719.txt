@@ -1,0 +1,7 @@
+Which ofthefotlowing is the optimat initiaL drug regimen?
+Amikacin.isoniazid,Ievofloxacin.rifampicin
+lsoniazid.pvrazinamide.evofloxacin.ethambutou.prednisolone
+lsoniazid,pyrazinamide,rifampicin.ethambutouprednisolone
+lsoniazid,rifampicin,azithromycin,ethambutot
+lsoniazid,rifampicin,azithromycin,ethambutolprednisolone
+@1MINENDOCRINE

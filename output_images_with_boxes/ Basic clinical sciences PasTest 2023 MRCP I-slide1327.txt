@@ -1,0 +1,7 @@
+Explanation
+Thefalse-negativerateiscalculated as(1-sensitivity
+Thesensitivityuooks atcorrectlyidentifyingthosewiththediseaseandthefalse-negativeratelooksatthose
+withthediseasethattest negatively.Boththesensitivity and false-neqativeratelook atpeople withthe
+disease.fwesav.thesensitivityis90othetrue-positivewouldbe9andthefalse-neaativewouldbe
+False-negativerate=l-sensitivity= 1-0.9 =01=10%=1 person.
+@1MINENDOCRINE

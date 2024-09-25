@@ -1,0 +1,12 @@
+Explanation
+10mumin
+Theansweris10mUminOptionC).
+Clearance isqivenby theformuaUx/Pwhere;
+u=urineconcentrationinmq/mt
+=urinevolume produced inmumin
+=plasmaconcentration in mq/mt
+Care mustbetakentoensurevaluesentered intothecalculation are inthecorrectunits:
+u=150mq(=0.15mg/mt
+1440mU24h=1440m1440min=immin
+p=15mg(=0.015mq/mt
+Clearancetherefore=(015x1)/0.015=10mUmiN BMDocRE

@@ -1,0 +1,9 @@
+Whichoneofthefolowing
+characteristic of confidence intervaLs?
+A95%confidenceintervaumeansthatthereisonuy a5%chancethatthetuemeanvalueforthe
+variablelesoutsidetheranaesauoted
+nan oddsratio,ifthe95%confdence intervaucrosses1thenthis indicatesasianificant difference
+Theintervalsaresmaller withasmaller sample size
+Thenarrowertheconfdence intervautheareater thesianificance
+They always indicate the presenceof astatisticaL difference between two groups
+@1MIN ENDOCRINE

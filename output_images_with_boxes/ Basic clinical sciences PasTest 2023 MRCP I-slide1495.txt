@@ -1,0 +1,9 @@
+Astudy seeks tofindan association between increasing perceptionsof pain(rankedonascaleof 1-10) and
+increasing heartrate.
+Whichoneofthefollowing measures is most appropriate?
+Analysisofvariance
+Chi-squaredtest
+Pearsonscorrelation coefficient
+StudentsTtest
+Spearmansrankcorrelationcoefficient
+@1MINFNDOCRINE

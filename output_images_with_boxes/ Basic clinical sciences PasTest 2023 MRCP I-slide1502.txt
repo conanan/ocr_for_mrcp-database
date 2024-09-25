@@ -1,0 +1,18 @@
+40%
+Therelativeriskisacommonmeasureof association derivedfromepidemioloqicaustudies of causation.such
+ascohortandcase-controLstudies.Therelativeriskexpresses how many moretimes adiseaseof interest
+occursintheqroupexposedtoaparticularriskfactorcomparedtothearoupthatis not.
+Inacohortstudy.thereuativeriskiscalculatedfromtheratioofincidenceratesintheexposedaroupandthe
+non-exposed group:
+Relativerisk=Incidenceofthediseaseintheexposed aroup÷Incidenceofthediseaseinthenon-exposed
+group
+Assuch.becausetherelativerisk isaratio.thevalueis alwvavs positive.
+lfthereisnoassociation.relativerisk
+(unity)
+Theabsoluteriskreductionisthedifferenceinriskbetweenthecontrotand interventiongroups.
+Therelativeriskreductionistheabsoluteriskreduction asapercentageoftherisk inthecontro{group.
+Workinathrouahthisauestion:
+Absoluteriskreduction=110/1000-661000=441000=4.4%
+Relativeriskreduction=(441000/1101000)x100=44000/110000x100=44/110x100=410x100
+40%
+@1MIN NDOCRINE

@@ -1,0 +1,10 @@
+You areexaminingdatafromastudyonthecomparisonofanewagentforthetreatment of neuropathicpain
+versustricyclicanti-depressantsandopiateanalaesics.Dataon pain has been recorded usina avisual
+analoque scaleonanumber ofoccasionsover6months
+Which of thefollowinq isthemostappropriatechoicefor statisticaL analysis in this situation?
+Chi-squaredtest
+MannWhitnevUtest
+KruskalWaisANOVA
+Spearmansrankcorrelation coefficient
+StudentsT-test
+@1MINENDOCRINE

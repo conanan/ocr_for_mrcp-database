@@ -1,0 +1,9 @@
+Explanation
+4180/4800
+Specificityreferstotheabilityofthetesttocorrecttyidentifv thosewithoutthedisease,tiscalculatedusing
+thefollowinq formula
+Specificity =Number of trueneqatives/althosewithoutthedisease
+Inthisexamole.thereare4800patientswithoutcancerand4180ofthesehaveaneaative screeninqtest
+resut.Therefore
+Specificity =Number oftrueneaatives/authosewithout thedisease=4180/4800
+@1MINENDOCRINE

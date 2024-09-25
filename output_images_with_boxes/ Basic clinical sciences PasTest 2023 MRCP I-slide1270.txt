@@ -1,0 +1,12 @@
+Explanation
+Positivelyskewed
+Inaskewed distribution:
+Themeanis“puledtowards"thevalues intheoutlyinqtaiuofthedistribution andisunrepresentativeof
+thebukofthedata.
+Skewisnamedaccording tothedirectiom in whichthetau points.
+fthedistributionsskewed.the medianis preferable asa summary ofthedata.
+Negative skewmode>median>mean
+Positiveskewg:mean>median>mode.
+So,ifweuookattheauestonabove.athouahwearenotaiventhemodevaue.themeanismuchareaterthan
+themedian sothisisapositively skewed distribution.
+@1MINENDOCRINE

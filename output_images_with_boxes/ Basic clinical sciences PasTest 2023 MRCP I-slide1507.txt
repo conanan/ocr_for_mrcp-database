@@ -1,0 +1,9 @@
+Cholesterouismeasured inpopulationsfrom Britain.Hinland.JapanandtheUSA.andthefourqroupsare
+comparedusingaone-way analysis ofvariance(ANOVA)
+Which oneofthefolowinaqraphicaumethodscouldbestbeused toiuustratetheresuts?
+Barqraphshowinqthemeancholesterouevuof each qroup
+Boxplotshowingthemedian,quartiles and rangefor eachgroup
+Fourhistoqramsshowingthedistribution of choesteroL within each group
+Ptotofthemeancholesterouleveuwith a95%confidence intervalfor each qroup
+Scatter plotofcholesterouleveuagainst qroup
+@1MINNDOCRINE

@@ -1,0 +1,5 @@
+Explanation
+95%
+Positive predictivevalue(Ppv) =True positives/true positives+false positives) = 180/(180+10) >0.95or
+95%.
+@1MINENDOCRINE

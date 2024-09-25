@@ -1,0 +1,9 @@
+Explanation
+81%
+Sensitivity =Truepositives/true positives+falseneaatives) whicheauas 65/65+15) =81%.Thespecifictv
+isTN/(TN+FP) whichis15/15+5)=75%.
+Thepositive predictivevalue(Ppv) is also important inthistvpeoftest,toavoid sianificant patientanxiety
+whemnno undertyingcarcinoma is present.The Ppviscalculated tobe65/(65+5)=93.Theneqative
+predictivevalueforthistest is15/15+15)whicheauas50.Thisiscearty of sianificant concern because
+numberofcases mavbemissedifthistestalonewasused as thescreenfor breastcancer.
+@1MINENDOCRINE

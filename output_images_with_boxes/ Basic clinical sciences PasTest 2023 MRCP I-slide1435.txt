@@ -1,0 +1,8 @@
+Explanation
+Mean=56.6,median=54,mode=54
+Mean=Number of cases per year/Numberofvyears=56610=56.6.
+Median=Themiddevalue when rankedfromIowtohiah.Letsre-rankthenumbers: 38,41.43,51.54.54.
+57,58,77.93.Themiddetwonumbersare54,so taketheaverageof these, which is:54.
+Mode=Thenumberwththehiahestfrequencv intheseauence.54occurstwiceand autheothernumbers
+only occuronce.so54isthemode.
+@1MINENDOCRINE

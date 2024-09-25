@@ -1,0 +1,11 @@
+Explanation
+Theprobability of rejectingthenuuhypothesiswhentisfalse
+Statisticatsignificancetestsor hypothesistests)usesampledatatocalculatehowuikeuy aspecified null
+hypothesisistobecorrect.ThenuL hypothesisisusually thatthereisnodifference between qroups.The
+tikeUihoodthatthenuuhvpothesisiscorrectisqivenasaprobabilityp) value.
+Thepowerofastudyistheprobabilityusualty expressed as apercentaqej) ofcorrectly rejectinqthenull
+hypothesiswhentisfalse.
+A sianifcantp-value(<0.05)mavueadorejectionofthenuuhvpothesiswhenistactualvtrue-thisisknown
+asatypelerror.Similarty,the p-valuemay be non-significant z0.05) when thenult hypothesis isfalse-thisis
+knownasatypelerror
+@1MIN ENDOCRINE

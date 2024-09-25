@@ -1,0 +1,10 @@
+Explanation
+Thepvalue
+Atvpe-1erroroccurswhenthenulhypothessisfaiselvrejected eadinqtoasianificantdifferencebeina
+observed betweentwodruasdespitetherebeinanone.Thetvpe-1errorisookinaatthesianificanceofa
+resut.Thepvalueisdefined astheprobabiity
+obtainingaresutequautoor moreextremethan what was
+observed whenthenulLhypothesis istue.Apvalueof0.05 indicatesthereisaprobability of5/100(Lin20)
+thattheresutmayhaveoccurredbychance.Aaain.thebvaueisIookinqatthesianificanceoftheobserved
+resultS.
+@1MINENDOCRINE

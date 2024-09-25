@@ -1,0 +1,8 @@
+Explanation
+wecannotrejecthehypothesisthathemeanageis55years
+Thehypothesisofthisstudyisthatthemeanageoftheadmissions inthissampeof100patients is55years.
+stikey in
+However.astheb-value isgreater than0.05.wecannotconfirm norrejectthis hypothesis.
+practice,giventheszeofthestandard deviation shown here,thatasamplesizeof100isinadeauateto
+determineanv concusionhere.
+@1MINENDOCRINE

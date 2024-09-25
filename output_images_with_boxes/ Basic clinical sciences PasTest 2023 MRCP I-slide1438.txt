@@ -1,0 +1,10 @@
+A study of patientsreceiving peritoneatdialysis (PD) as renaLreplacement therapy is carried outtotestthe
+hypothesisthatanincreasinqnumberofepisodesof PD-associated peritonitisisassociatedwith decreasec
+timetofaiureoftheperitoneaumembrane.
+Which oneofthefotlowina procedures is appropriatefor anatysing theresuts?
+Ftest
+Kruskat-Walistest
+One-samplettest
+One-way analysis ofvariance (ANOVA)
+Spearmansrankcorrelation
+@1MINNDOCRINE

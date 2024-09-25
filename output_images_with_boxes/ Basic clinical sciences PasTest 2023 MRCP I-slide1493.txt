@@ -1,0 +1,10 @@
+Thesensitivityistheproportionoftruepositivescorrectlyidentified by thetest; =a/(a+c)
+Thespecifcityistheproportionoftueneaativescorrect identifiedbvthetest=d/(b+d)
+Iherefore,asthepositive predictivevalueistheproportionofthosetesting positivewhoactualyhavethe
+disease;=a/a+b)
+Anotherwavoflookinqatthis is:Ppv=Truepositives/(Tuepositives+false positives)
+Similart.astheneaativepredictivevalueistheproportiontestinq neaativewhodonothavethedisease: =d/
+(c+d)
+Theppvcanalsobecalculatedfromthespecifcitv. senstivity andprevalenceusinathefoLowinaformula:
+ppv=(Sensitivityx Prevalence)÷Sensitivityx prevalence+1-Specifictyx 1-Prevalence)
+@1MINENDOCRINE

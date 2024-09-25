@@ -1,0 +1,16 @@
+Explanation
+999%
+TotaL
+TestPositive
+TestNegative
+Cancer
+358
+398
+Non-Cancer
+360
+405
+Totat
+NPv=Numberofpeople withoutcancer and anegativetest÷Totatnumberof people withanegative test=
+358÷360
+NPV=99.44%
+@1MINNDOCRINE

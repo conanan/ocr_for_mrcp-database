@@ -1,0 +1,13 @@
+Explanation
+Reversetranscriptase-PCR R-PCR) isabletoidentifvthetanscriptsofaaivengenebv detectino
+themessenger(m)RNAcodingforthegene
+Polvmerasechain reaction(PCR) is alaboratorytechniauethatisusedtoselectively amplifv aspecificsegment
+0f DNA.PCRinvolves three main steps:
+dsDNAtemplateapprox 95Cy
+denaturation
+annealingofprimers50-70C
+extensionofdsDNA molecules(approx.72C
+These stepsarerepeated for 30-40cvcles.
+Thereare numerousformsof PCR.for examplereverse transcriptasePCRcan beusedfor detection of specific
+ceuLgenesignatureswhich may pointtowardsvirallyinfected or cancer celL phenotypes.
+@1MINNDOCRINE

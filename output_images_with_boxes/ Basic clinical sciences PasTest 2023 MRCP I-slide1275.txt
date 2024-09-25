@@ -1,0 +1,9 @@
+Adruqcompanytrialsanew druqforlowerinqüpid levels.Patiemtsare randomized into 2aroups.one
+receivingthedrugandtheotherplacebo.ThegroupsarecomparedatthebeoinningandendofthetriaL
+Whatisthebest statisticautest forcomparina meancholesterolsbetweenthetwoaroups?
+Chisauaredtest
+Logisticreqressiontest
+Mann WhitnevUtest
+PairedTtest
+UnpairedTtest
+@1MINENDOCRINE

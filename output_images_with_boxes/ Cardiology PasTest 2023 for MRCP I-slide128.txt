@@ -1,0 +1,5 @@
+CHA.DS-VAScscore
+Score lpointfor-cardiacfaiure.hypertension.diabetes.vascular disease,aqe65-74.female
+Score2pointsfor-age=75,previous stroke,TA orthromboembolic evemt
+Maximum scoreis9becauseacecancontribute0.1or2points
+@1MINENDOCRINE

@@ -1,0 +1,27 @@
+Explanation
+999
+Thequestion asks tocalculatethechancethatadonorwhotests negativeis actually free fromHlv This
+question asksthecandidate tocalculatethenegative predictive valueNPv).Thestatistics already provided
+arethesensitivit (95%) andspecifcity 906) as wet as15%of patientsknown tocarry HlⅣinthesample
+population
+Toheupanswertheauestion correctly
+tablecan beconstructed.Asamplesizeof1000can betaken
+(althouqhtheoretically any numbercan beused) and weknowthatof this1000,15haveHvthediseased
+population).Thereforecalculatesas150 patientswith HVwhichcan beinsertedintothetablebelowFrom
+this,thetablecan bepopulated usimq956ofthe150(sensitivity) and 90of theremaining850 (specificity)
+SeetablebeLow:
+HIⅣconfirmed
+TOtaL
+Hlvnot present
+22g
+143
+85
+PositiveTest
+765
+NeqativeTest
+772
+850
+150
+1000
+Totat
+@1MINNDOCRINE

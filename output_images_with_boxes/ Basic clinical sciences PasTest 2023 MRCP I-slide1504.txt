@@ -1,0 +1,7 @@
+Explanation
+Median=65;ranqe=20to115
+Thissamplepopulation isobviouslyvery skewed,asthemean and mediantimes aresodisparate. In addition
+tothis.themeanandmedian areconcentrated towardsthelower endoftheranae. whichiswideat20-115.
+Therefore.thebestwaytosummarisethisskewed dataistousethemedianandtheranae.asthisisabetter
+waytodemonstrate anaveraqeandthevariance in such an asvmmetricaL population.
+@1MINENDOCRINE

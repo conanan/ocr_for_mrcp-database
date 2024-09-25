@@ -1,0 +1,14 @@
+Explanation
+Pulmonaryembolus
+Thealveolar-arteriat(A-a) qradientisaffected primarily by ventilation/perfusion (v/Q) mismatchand shunting.
+Thismeansthatchanaesinalveolar-arteriat aradientoccur wth ventilatorv disorders.suchas pneumonia.and
+disordersofthevasculature.suchasapuumnarvembolus.Pulmonamvembousisthemostukelv diaanosis
+here.Theatveolar-arteriau(A-a) aradientiscalculatedusinqthefouowinaequation(wherePAo2isthe
+alveolaroxygen,andPao2andPaco2arethearteriatO2andcO2evels.respectively/
+Pao>-(Pao+ Paco/0.8)
+TheaveolaroxygeneveLinkPaiscalculated by:; (100-7)/100×%inspiredO
+egfor 21%O.thePaoswouldbe20mmHg.
+Theqradientisthencalculated bvtakinqthearteriaLpartiaLpressureofoxygenfromtheaveoarone
+Because inspiredoxvgencan aterthenormat'alveolar-arteriat(A-a)aradientalsovaries accordinqtoeveLof
+inspiredoxvaen.ifyouareusinaachartyoumustmakesurethatyouareusinathecorrectuneonthechart
+correspondingtothecorrect mnspmred oxygen concentratQnm

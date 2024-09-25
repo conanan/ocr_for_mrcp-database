@@ -1,0 +1,6 @@
+Explanation
+ThedrugisnotproventoreduceCvevents
+Apvalueof0.05describesthepossibility ofobservinqtheresut bvchanceis<1in20.Inpractice,apvalue of
+c0.05isusedtodescribestatisticausianificance.Assuch.thevaueof0.055seenhereisnon-sianifcant.
+Whitstcommentatorsentertainthenotionofaresut beinq“nearty sianificant"thisisincorrect.
+@1MINENDOCRINE

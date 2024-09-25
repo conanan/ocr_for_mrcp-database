@@ -1,0 +1,6 @@
+FEv 60,FvC6s(ratio90%),a 60,Kco60
+FEV60,FvC65ratio90%a85,Kco130
+FEv 6,FvC6s(ratio90%),Va100,Kco50
+FEV65,FvC85(ratio70),a60,Kco60
+FEV 65,FvC8s(ratio70%),va85.Kco130
+@1MIN NDOCRINE

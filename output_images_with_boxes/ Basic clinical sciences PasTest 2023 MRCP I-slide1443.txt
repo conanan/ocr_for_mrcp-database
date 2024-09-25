@@ -1,0 +1,10 @@
+A study measures thereductiom inHbA.in patients withtype-2diabetesrandomised toreceiveeither anew
+drugor standardtherapy
+Which oneofthefotLowinqtests ismostappropriatetotestthehypothesisthatthemeanHbA.
+reduction isdifferentinthetwogroups?
+Mann-WhitnevU-test
+McNemars test
+Pairedttest
+Unpairedttest
+Wilcoxon sianed-ranktest
+@1MINENDOCRINE

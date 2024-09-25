@@ -1,0 +1,8 @@
+Explanation
+Sensitivity analysis
+A sensitivitv analvsis attemptstoexcludethepossibilitv that differences inthecharacteristics oftreatment
+groupsmayhaveimpacted onefficacy or safety analyses.Exampuesmight incudeanalysesoftheprimaryend
+pointinthisstudy bydurationofanainaorby investigator site(cinical practice in somecountries might drive
+intervention eartier).A sensitivity analysisis performed bvlookinqfor differences between thesubsetof
+patients whocompletedhesurveyversus theITanalysis.
+@1MINENDOCRINE

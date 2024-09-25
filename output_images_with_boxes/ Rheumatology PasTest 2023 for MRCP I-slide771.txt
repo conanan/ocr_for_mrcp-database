@@ -1,0 +1,12 @@
+Explanation
+PatienthasnommalBMDforherage
+Herzscoreis0(indicatinqnormatBMDfor aae) and herTscoreis-05(ie.> -l) which isnormaL
+TheTscorerepresentsthebonemineraudenstv (BMD) measurementcompared with thatwhich wouldbe
+obtainedfromanaveraaepersonattheir peakbonemass.TheZscoreistheBMDscorecomparedwitha
+normatindividuatbutadiustedfortheaaeoftheperson.Az-scoreof0meansthattheindividuauhasnormat
+BMDfortheirage.
+ThewHOdefinitionofosteoporossis
+-scoreof-2.5standard deviations belowthenorm oruower.Atthis
+leveuthepersonisdeemedtobeatriskoffracture.osteopemaisdefinedasaT-scorebetween-1and-25
+SD
+a1MIN ENDOCRINE

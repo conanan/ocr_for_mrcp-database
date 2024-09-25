@@ -1,0 +1,8 @@
+Explanation
+Standard deviationand sample size
+Precisionisadescriptionofrandom errors.measureof statisticauvariabuity andisoftenusedtodescribethe
+repeatability and reproducibility of atest.Thatiswillrepeated observationsunderthesameconditions
+oroducethesameresuts.Thisismostcoseuvrelatedtothestandarderror whichisthestandarddeviationof
+thesampling distribution of statistic.Thesamplesize isalsokey when discussing precision. With smaller
+samplesizeswe seearger ranges andarger samplesuead tosmaller rangesand thereforemore precision.
+@1MINENDOCRINE

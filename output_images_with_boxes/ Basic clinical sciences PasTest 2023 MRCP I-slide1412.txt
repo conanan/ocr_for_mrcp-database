@@ -1,0 +1,21 @@
+Explanation
+14%
+ppVvisthe(sensitivityxprevalence)/(sensitivity xprevalence+(1-specificity) x1-prevalence)).
+Forthepresemt example,this is(0.92x0.012)/(0.93x0.012+0.07x0.988)=14%.
+AnalternativeformulaforcalculatinaPpvistodraw an imaqinedtwo-bv-twotabeof abnormatty positive
+andneqative(columns) andtestoucomes (rows)to answer this:prevalence=1.2.or l2cases in1000
+Applyingthegiven sensitivityand specificitytothecolumn totals.thecolumnscan befuled in.ThePpvisthen
+TPTP+FP).or11/80=146
+TotaL
+Abnormality -ve
+Abnormality＋ve
+80
+69
+Test+ve
+920
+919
+Test-ve
+988
+1000
+TotaL
+@1MNENDOCRINE

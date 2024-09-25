@@ -1,0 +1,11 @@
+Cunically obese patientsarerandomisedtoreceive either intensivedieticianfollow-upornormattreatment
+You are provided withdata on mean weight change,rathertham dataon weight atthe beqinningandendof
+thetriaL
+WhichoneofthefoLLowinatests is appropriatetotest whetherthemean weicht Loss is different
+betweenthetwogroups?
+Analysisof variance(ANOVA)
+Ftest
+Independent samplesttest
+Paired samplesttest
+乙test
+@1MN NDOCRINE

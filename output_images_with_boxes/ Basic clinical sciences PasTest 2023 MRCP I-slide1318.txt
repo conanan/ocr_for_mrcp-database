@@ -1,0 +1,11 @@
+You areexamininq whether anewtreatmentforCOPD reducesadmission rates totheIU.Publisheddata
+versus placebo addedto standardof care shows anumericaLdifference inITUadmissionrates but thisisnot
+statistically significant.PublisheddatafortheleadingtaditionaLtreatmemt also exists.
+Whatisthebest way to decide auickLy whetherthenew treatment ismoreeffectivethanthetraditionaL
+one?
+Adjiusted indirect comparison usinq arandom effects modet
+AudtofTUadmissions
+Meta-anatysisofstudiesforthenoveuaqent
+Prospectiveheadtoheadcinical study
+OuaLitativesurvev
+@1MINNDOCRINE

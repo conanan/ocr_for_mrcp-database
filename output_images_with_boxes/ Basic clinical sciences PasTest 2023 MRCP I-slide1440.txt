@@ -1,0 +1,10 @@
+AdmissionstoamedicaL admissions unitwere audited for aperiod of lweek.For 225admissions,the mean
+enathoftimetoseeadoctorwas25hoursstandarddeviationL5h).andthemediantmetoseeadocto
+was 1.5h.Standarderror ofthemean=0.1.
+Which oneofthefotowinq statementsiscorrect?
+95%ofpatientswereseen bv adoctor within5.5h
+à95%confidenceintervauforthemeantimetoseeadoctoris2.4-2.6h
+Halfof alpatientswaitedateast2.5htoseeadoctor
+Thedistributionofthetimetoseeadoctor was approximately normal
+Thedistributionofthetimetoseeadoctor was positively skewed
+@1MINENDOCRINE

@@ -1,0 +1,11 @@
+groupof30patients with asthmaunderwventtreadmiltests ontwooccasions,four weeks apart.Beforethe
+frsttest,each patient was random allocatedtoreceive either drugA(standardtreatment) ordrugBnew
+treatmemt);beforethesecond test.eachn patientreceivedthealtermativedrug.Thedistances walked ineach
+testwerefoundtofouowanapproximatenormauGaussian distribution
+What statisticaL siqnificancetestis bestfor comparing theeffects ofthetwodrugs?
+TheFisher exacttest
+TheMann-Whitney U-test
+TheStudent pairedt-test
+TheStudentunpairedt-test
+TheWilcoxontest
+@1MINENDOCRINE

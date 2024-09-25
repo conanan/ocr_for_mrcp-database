@@ -1,0 +1,13 @@
+Toestablishup-to-datenormaurange' values,untreatedforced expiratory volumein1second{FEV)evels
+1000individualsselected atrandomfromthegeneraupopulation.HEvueveuswerefoundto
+weremeasurec
+followanormauGaussian distribution withmeanof 350and standard deviation of 0.75L(standard error
+0.02).
+fthe'normaLrange'forthestudy popuLation isdefined as being thecentrau95%of individuas around
+themean value,thenthe'normaurange'forFEVis:
+Mean±1standard error(ie3.48to352tres)
+Mean±2standarderrors(ie346to354utres)
+Mean±1standarddeviation(ie275to4.25tres)
+Mean±2standard deviations (ie200to5.00Itres)
+Mean±3standarddeviations (ie125to575ttres)
+@1MINNDOCRIKE

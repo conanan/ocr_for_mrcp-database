@@ -1,0 +1,7 @@
+Explanation
+TheMannWhitnevLtest
+Workingthroughthisauestion,notethatigGuevelshadapositively skewed distribution.This means that this
+isnotanormatdistribution,sowe wilneedtousenon-parametrictesting in ordertocomparegroups.This
+rulesouttheStudentst-testimmediately. As wearecomparinaaveraaes in non-parametric distribution.the
+best methodwouldbetousetheMann-Whitnev U-test.
+@1MINENDOCRINE

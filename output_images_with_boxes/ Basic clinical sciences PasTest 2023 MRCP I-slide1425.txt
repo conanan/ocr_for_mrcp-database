@@ -1,0 +1,8 @@
+Explanation
+weare95%confdentthathemean
+SADscore inthispopulationisbetween 26.5and 29.B
+The95%confidence intervalforthemeanisan intervauthat hasa95%chanceof containinqthetruevalueof
+themeanforaparticularpopulation.The95%confdence intervattelsusabouttheprecision with whichwe
+canestimatethemean.andnotaboutthedistributionof individuauvauesinthesampe.Thisoptioncorrectlv
+describeshepropertiesofthe95%confidence intervaLforthemean inthepopulation intheuuestion.
+@1MINENDOCRINE

@@ -1,0 +1,8 @@
+Which oneof thefollowinqisthemosttikely diaqnosis?
+Atypicaluberculosis
+Cytomegalovirusinfection
+High-qradenon-Hodgkinsymphoma
+Kaposis sarcoma
+Thyroidcarcinoma
+45453
+@1MINENDOCRINE

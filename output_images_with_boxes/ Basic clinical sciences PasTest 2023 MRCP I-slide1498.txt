@@ -1,0 +1,12 @@
+Explanation
+Themeanishigherthanhemedian inpositively skewed distributions
+Inanormaudistribution.mean=median=mode.
+Inaskewed distribution:
+Themeanis“pulledtowards”thevalues intheoutlyingtaitofthedistribution andisunrepresemtative of
+thebukofthedata.
+Skewisnamed accordinatothedirection in whichthetatpoints
+fthedistributionisskewed,themedianispreferable as asummary of thedata.
+Neqative skew:s mode>median>mean.
+Positive skew:mean>median>mode.
+The mean isgreaterthanthemode inapositively-skewed distribution.
+&1MIN ENDOCRINF

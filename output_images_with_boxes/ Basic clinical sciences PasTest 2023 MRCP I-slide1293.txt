@@ -1,0 +1,10 @@
+Explanation
+BinomiaLwihn=12,p=025
+binomialdistribution describedthenumber
+opportunities
+times an eventoccursfromafxed number
+whentheprobabilitythattheevent occurs ateachopportunity isconstamtand independemt.Thedistribution is
+characterisedbvthenumberofopportunitiesn)andtheprobabuiuy of anevent(p).
+Inthisauestion.thesamplesizeisl2people(or12opportunities forthediseasetooccur),so n=12.The
+probabiityisqivenas 25orp=0.25asadecimaL
+@1MINENDOCRINE

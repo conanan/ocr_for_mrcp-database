@@ -1,0 +1,25 @@
+Marker
+Peakevels
+Initialrise
+Backtonormal
+6-7h
+24h
+1-4h
+Myoglobin
+5-10d
+3-12h
+24h
+Toponin
+5-14d
+12h-2d
+3-12h
+TrOponin
+48-72h
+CK-MB
+24h
+3-12h
+10-14d
+10h
+24-48h
+Lactate dehydrogenase
+@1MINENDOCRINE

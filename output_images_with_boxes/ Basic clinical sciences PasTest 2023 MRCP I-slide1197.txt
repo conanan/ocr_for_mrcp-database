@@ -1,0 +1,6 @@
+Explanation
+66%
+weknowfromheaoldstandard testthatthenumberoftruepositives is100.wealsokmowfrom thenew
+testthatthasgenerated150positive results.50ofthesemustthereforeactually befalsepositives.
+ThepositivepredictivevaluePpv) ofatest=truepostive÷truepostive+falsepositive =100÷100＋50)
+@1MINENDOCRINE

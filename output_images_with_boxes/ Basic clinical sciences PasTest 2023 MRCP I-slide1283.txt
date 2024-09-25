@@ -1,0 +1,8 @@
+Explanation
+Two-taiedpairedttest
+Thisisbecauseweareinterestedinthechanaeseen inpairsof resutsfromthesame individuals.beforeand
+afterthecourse.tneedstobetwo-tailed becauseyoucannotexcludethepossibility that scoresmay actually
+havedeterioratedas aresutofthetraining
+usedto definetherelationshipbetweentwovariables.for
+example,weiahtandblood pressureor inthiscasepre-andpost-coursetest scores.
+@1MINENDOCRINE

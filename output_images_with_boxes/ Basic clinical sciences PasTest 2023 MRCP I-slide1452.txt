@@ -1,0 +1,15 @@
+Thedatatakenfromarecentlocauaudit intoresultsof initialCT pulmonary anqioqram (CTPA) and diagnosis of
+pulmonaryembolismfor 600 ward patients isdetailed below
+Absent
+present
+TotaL
+CTPA PositiveResut
+480
+510
+CTPANeqativeResut
+30
+500
+100
+G00
+TotaL
+@1MINENDOCRINE

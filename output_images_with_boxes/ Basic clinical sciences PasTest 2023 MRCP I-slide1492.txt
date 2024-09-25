@@ -1,0 +1,12 @@
+Explanation
+111
+Positivepredictivevalueistheproportiomofthoseinaspecifiedpopulationwhotest positiveand actualy have
+thedisease.Negativepredictivevalueistheproportionofthosewhotestneqativeanddonothavethe
+disease.
+Exampleofcontinqencyvtabecontaininq dataforascreeninq test:
+Djiseased
+Disease-free
+Positive(possible disease)
+Negative
+Thesensitivityisheproportionoftruepositivescorrectly identified by thetesc;= a/(a+c)
+@1MINNDOCRINE

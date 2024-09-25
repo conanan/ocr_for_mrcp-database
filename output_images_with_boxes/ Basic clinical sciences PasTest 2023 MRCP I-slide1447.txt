@@ -1,0 +1,12 @@
+Theweights(inkg)of 1OpatientsinwardAarecomparedtothoseof9 patients in ward B. withthefollowing
+resuts:
+wardA:48,55.55,62,68.77,81,82.95.108
+wWard B:49,56,61.61,76,80.80.85.90
+Which oneofthefoulowinq statements bestreLates to theaboveresuts?
+Themeanoftheselected populationfrom wardA ishiaherthanthemeanoftheselected
+populationfrom wardB
+Themedian weiahtofthepatients inwardAishigherthan inwardB
+Themodauweiqhtofthepatients in wardAishiaherthan in wardB
+Themean.medianandmodauweiahtsareaueauat
+wecannotcalculatethemean.median and modefromthevaluesqiven
+NDOCRI

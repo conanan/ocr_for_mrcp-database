@@ -1,0 +1,7 @@
+Explanation
+Smallerthanhestandarddeviation
+Inanormatdistribution.thestandarderror SE) = standard deviation (SD)/sauarerootofn.
+Inthisauestion.n=100soitssauarerootis10.
+SE=5/10=0.5.
+Therefore.onlthisanswerismathematicaly correct.
+@1MINENDOCRINE

@@ -1,0 +1,8 @@
+Given alikeLy diaqnosis which ofthefouLowinqisthe initiattreatment of choice?
+Intravenousinfusion ofhypertonicsaline
+Intravenousinfusionof isotonicsaline
+Oraudemeclocycline
+OraLfurosemide
+Restrictionofwaterintake
+52431
+@1MINENDOCRINE

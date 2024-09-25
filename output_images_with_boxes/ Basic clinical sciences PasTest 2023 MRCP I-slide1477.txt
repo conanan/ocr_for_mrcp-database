@@ -1,0 +1,12 @@
+A studyisundertakentoinvestiaatetheimpactofsimpehyaienemeasures on therates ofMRSA
+contaminationofdoctors`tourniauets.Arandomsamoleoftourniauetsisswabbedbeforetheintervemton.and
+asecondrandom samoeistestedafterthe intervention.Theresutsare presented ina2x2continaency table.
+andthereduction inMRSA contamination ratesistested with aChi-sauared test.TheresutoftheChi-sauarec
+test isreported asX-=48,p=0.03.
+Whatdoesp= 0.03' mean?
+3%ofdoctors' tourniauetsarecontaminated withMRSA
+ftheexperimentweretoberepeated100times,this resutwould befound atueast3times
+Theprobabilitythatadifferenceof thismaanitudewouldhaveoccurred byv chanceis3%
+Theprobabilityhatthisinterventionhasreduced thecontaminationrateis3%
+Therateofcontaminationhas beenreduced bv3%
+@1MIN NDOCRINE

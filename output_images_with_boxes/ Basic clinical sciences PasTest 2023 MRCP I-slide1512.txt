@@ -1,0 +1,7 @@
+Explanation
+Boxandwhiskerpot
+Aboxand whiskerplotdepictsaranaeofvaluesincludinasampleminimum.uower auartile.median,upper
+quartile.andsamplemaximum.Theboxextendsfromtheborder ofthelower duartietotheborderofthe
+upper quartile.withthemedian depicted asahorizontatlineacrosst. Often inaweiahtIoss triatthereare
+siqnificantoutliers.andaboxandwhisker plotalowvs assessment of possible hypoand hvyper responders.
+@1MINENDOCRINE

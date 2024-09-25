@@ -1,0 +1,9 @@
+Theannuaunumbersofreportedcases of eptospirosis intheUSAoverthel0-vearperiodfrom1985to1994
+were:57,41,43.54,93,77,58,54,5138.
+Whatwerethemean,median and modau number of cases over this period?
+Mean=54, median=54.mode=54
+Mean=54,median=85.mode=93
+Mean=56.6.median=54, mode=54
+Mean=56.6.median=54.mode=93
+Mean=56.6.median=85.mode=93
+@1MINNDOCRINE

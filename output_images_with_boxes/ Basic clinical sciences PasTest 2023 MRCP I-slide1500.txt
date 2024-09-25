@@ -1,0 +1,9 @@
+Explanation
+4/3
+Odds=Numberoftimeseventoccurs÷Numberoftimeseventdoesnotoccur
+Oddsratio=Oddsofeventinexposed aroup÷Oddsof event incontrotaroup
+Workinqthrouahthisauestion:
+Oddsofbirdexposureinunacanceraroup=80120=812=2/3
+Oddsofbirdexposure incontrotaroup=70140=714=12
+Oddsratioforunqcancer=23/1/2=4/3
+@1MINENDOCRINE

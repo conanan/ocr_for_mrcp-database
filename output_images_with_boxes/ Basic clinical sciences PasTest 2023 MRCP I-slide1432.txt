@@ -1,0 +1,9 @@
+InanaudtofhospitaLepisode statistics.uenqthof hospitau stay for acutemedicaL admissions is foundtobe
+highly positively skewed withamedian of 4days andan interquartile rangeof2-1Odays.
+Which oneofthefoUowina statements iscorrect?
+25%ofpatientsstayed betwveen2and 10 days
+50%ofpatients stayed betweem 2and10 days
+90%ofpatients stavedbetween2and 10 days
+95%of patients staved between2and10days
+Aupatientsstayed between2and10 days
+@1MINFNDOCRINE

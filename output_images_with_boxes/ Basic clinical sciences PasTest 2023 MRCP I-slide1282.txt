@@ -1,0 +1,10 @@
+You areassessing theresutsof apart1MRCPcourse anddecide thatyou wilexamine pre-and post-test
+scoresofeachcandidatetodecideiftheimprovement is statisticalty sianifcant or not
+Whichofthefouowinatestsisthemostappropriatetotestfor astatisticauuv sianificantimprovementin
+test scores?
+Two-tailedpairedt-test
+Two-tailed unpairedt-test
+Spearmansrankcorrelationcoefficient
+ANCOVA
+Mann-witneyUtest
+@1MINNDOCRINE

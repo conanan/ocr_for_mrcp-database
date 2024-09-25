@@ -1,0 +1,16 @@
+Thetableofresutsshownbelowisforan antibodytestfor coeuiacdisease. Subjects underwent theantibody
+testandthepresenceofdisease wvas then confirmed wvith smat boweLbiopsy.
+Antibodvtestresut:
+Positive
+Negative
+1O
+Coeuiacdisease
+890
+Nocoeuiacdisease
+Whatisthepositive predictive vaLueofthetest?
+4096
+6096
+806
+9496
+999%
+@1MINNDOCRINE

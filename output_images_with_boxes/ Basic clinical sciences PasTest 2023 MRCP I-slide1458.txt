@@ -1,0 +1,6 @@
+Explanation
+wecanbe95%certainthatbetween10and33%of patientswillbeneftfromhenew drug
+A95%confdenceintervau(Cl) meansthereisonuy a5%chanceofthetruemeanvalueinqoutsideour
+ranqe.Inthiscaseweknowthatthe95%confidence intervauis01-0.33fromNNToflin33tolin10
+meaninq wecanbe95%surethat10-33%ofpatientsbeneftfromthenew drua.
+@1MINENDOCRINE

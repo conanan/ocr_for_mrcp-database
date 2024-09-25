@@ -1,0 +1,10 @@
+Explanation
+40%
+Thepositive predictivevalue equalstrue positives/true postives+false positives).or 40/(40+60)=40.
+Thenegativepredictivevalueequalstruenegatives/truenegatives+false negatives),or 890/ (890+10)=
+99%.Inthecaseofanantibodvtestforcoeuiac.ahiahpositive predictivevalue or precisionisneeded.asthe
+objectiveistohaveanon-invasive testapproximatinqtoendoscopy findings.avoidinqtheneedtoproceedto
+theinvasivetest.Thistestisthereforenot particularty usefuL
+Thesensitivitv TP/(Tp+FN)) ofthetestis40/(40+10)=80%andthespecifcityTN/(TN+FP) s890/
+(890+60)=94%.
+@1MINENDOCRINE

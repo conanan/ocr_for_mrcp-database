@@ -1,0 +1,11 @@
+Agroupofpatients attendingan OutpatientsCnichavetheir systolic blood pressure measured beforeand
+aftertheiraopointment. and areasked toaradetheir satisfaction wththeappointmentThevariables recorded
+ar:(i) sex,(i initiaublood pressure.(i) end blood oressureand(iv satisfaction ratinaaraded A for satisfied,B
+forneutratandCfordissatisfiedj
+Whatarethe scales of measurement of eachofthesedifferent variabLes?
+0)Nominal.(i continuous.(iij continuous.(iv) ordinat
+()Nominal.(i continuous,(ii) ordinal.(v) nominat
+Nominal.(i ordinal.(ii ordinaL.(iv) ordinat
+0 Ordinal.(i) continuous.(ii) continuous.(iv) nominat
+0 Ordinal.i) continuous,(ii ordimal(v) continuous
+@1MIN NDOCRINE

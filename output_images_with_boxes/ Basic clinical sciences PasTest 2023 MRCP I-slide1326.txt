@@ -1,0 +1,7 @@
+Regarding definitionsoftrue-andfalse-positive and -negative rates,whichof thefollowingistrue?
+Aoerfecttest would haveasensitivitvof atleast70%
+Thefalse-neqativerateiscaiculated as(1-sensitivity)
+Thefalse-positiverateiscalculated as(false-positive/[true-positive+false-positive])
+Thetrue-neqativerateis(1-false-negative rate)
+Thetrue-positiverateisthesameasspecificity
+@1MIN ENDOCRINE

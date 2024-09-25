@@ -1,0 +1,10 @@
+YouareplanningacinicaLphase-l study inoncoloqy.testinganew chemotherapy in patients withamalignant
+tumour.tisarandomised. placebo-controled.double-buindstudy Atotauof 100patients wilLreceive
+standardtherapy and 100patients wil receivethenew substanceover a5-year treatment duration
+Which statisticautest ismostappropriatetocomparethesurvivautimes betweenthetwoqroups?
+Analvsisof variance(ANOVA
+Chi-squaretest
+Loq-ranktest
+Pairedt-test
+Unpairedt-test
+@1MINNDOCRINE

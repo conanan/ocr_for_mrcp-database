@@ -1,0 +1,10 @@
+Inasmaldouble-blindstudyof painfolowinq dentausurgerv. patients arerandomly alocated to receive
+eitheran analgesictablet or amatching placebotabletlhour preoperatively.Aupatients wereaskedtorate
+theirpainat4hoursaftersuraeryusinathefolowinascalc; 0=niu.1=mid.2=moderate.3=severe.
+Whatisthebest statistical testfor anatysing theresuts ofthis study?
+Chi-squaretest
+Fisher exacttest
+Mann-Whitnevy U-test
+One-way analysisofvariance
+UnpairedStudentt-test
+@1MINNDOCRINE

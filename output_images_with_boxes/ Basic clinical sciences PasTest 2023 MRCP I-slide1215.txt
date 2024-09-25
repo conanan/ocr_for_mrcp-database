@@ -1,0 +1,5 @@
+Explanation
+Riskofnotdetectina asianificantdifferencewhenthereisone
+Atype-2(alsoknown asbetaerror) occurs whenthenut hypothesis is incorrectly accepted.ie.afalse-
+negative.
+@1MINENDOCRINE

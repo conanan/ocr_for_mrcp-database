@@ -1,0 +1,10 @@
+Aqroupofpatientshavetheiralbuminevels measured at hosoitauadmissionandaaain3weeks intotheir
+hospital stay
+Whichoneofthefouowinq statisticattests ismost appropriatetotestthehypothesis that theaubumin
+Levels havechanged?
+Chi-sauaredtest
+Independemt samplesttest
+Linear regression
+One-way analysisof variance
+Paired samples ttest
+@1MINENDOCRINE

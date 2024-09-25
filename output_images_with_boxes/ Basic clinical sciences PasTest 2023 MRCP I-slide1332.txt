@@ -1,0 +1,12 @@
+Explanation
+1/13
+Theneaativeukeuhood woudbe:
+NegativeLR=(100-sensitivity)/specificity.(100-90)80=10/80=0.125
+Theformulaforcalculation
+post-test probability;(post-testodds/[Post-testodds+1])
+Whereas post-testodds=(pre-testoddsxLR) and pre-testodds=(pre-test probability/[1-pre-test
+probability]
+Byputtinqthevalues intweqet pre-testodds=40/1-0.4])=0.66
+post-testodds=0.66x0125=008325
+post-test probability =0.08325/008325+1=008325/108325=0.077=1/13
+a1MIN ENDOCRINE

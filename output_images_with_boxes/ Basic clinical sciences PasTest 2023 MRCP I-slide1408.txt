@@ -1,0 +1,8 @@
+Explanation
+TheStudentpairedttest
+Thisauestionisanexampeofacrossoverrandomisedtialdesian.Both setsof patients receivethesame
+treatments.buteachinadifferentorderfromtheother.Aswearecomparinc“before and after”inthesame
+groups,weneedtouseastatisticautestfordependent variabues.Theprimary outcomemeasure iscontinuous
+withanapproximatenormaudistributiondataisparametric).Therefore,thebestanswerhereistheStudent
+pairedt-test.
+@1MINENDOCRINE

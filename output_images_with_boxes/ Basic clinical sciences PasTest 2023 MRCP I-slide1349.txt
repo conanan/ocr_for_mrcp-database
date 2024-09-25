@@ -1,0 +1,9 @@
+Explanation
+100/(18-8)
+ThenumberneededtotreatNNT)isthenumberofpeoplethatneedtoreceiveatreatmentforonepersonto
+beneft.
+TheNNT=1absolute-riskreduction
+Absolue-riskreduction=medicat(control) group incidents 18) -surqicat intervention group incidents 8) =
+018-0.08=010
+NNT=1/(01)=10
+@1MINENDOCRINE

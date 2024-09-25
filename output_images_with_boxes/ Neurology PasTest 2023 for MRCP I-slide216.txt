@@ -1,0 +1,7 @@
+Giventheuikely diagnosis,which of the fotlowing isthe strongest indicator of prognosis?
+12-leadECG
+FEV
+LeveLofCK
+Responsetocorticosteroid therapy
+VitaLcapacity
+@1MIN ENDOCRINE

@@ -1,0 +1,10 @@
+A patiemtisadmitted withasuspected DvT.The patiemt hasahighcinicatscoregivingapretest probabilityfor
+DVTof25(40%).
+Ifactinicautesthasasensitivity of 90%andaspecificity of 80todetectDVT, what isthepost-test
+probabilityforthis patient ifthetestis negative?
+112
+115
+113
+1/25
+8/25
+@1MINENDOCRINE

@@ -1,0 +1,10 @@
+Explanation
+15%relativeriskreductionversusaplaceboeventrateof 35%
+Forthisyouneedtoworkouttheabsouuteriskreductionforal5options:
+33%RRRversusPERof 16-ARR=033x1=033%
+15%RRRversusPERof35%-ARR=015x35=0525%
+10%RRRversus PERof 2%-ARR=01x2=02%
+20%RRRversusPERof25%-ARR=0.2x25=05%
+10%RRR versus PERof3%-ARR=01x3=0.3%
+15%relativeriskreductionversus aplacebo evemt rateof 35%has thehiqhestARRof0.525%.
+@1MINNDOCRINE

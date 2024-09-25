@@ -1,0 +1,12 @@
+Expanation
+Thedistributionofthetimetoseeadoctor was positivetv skewed
+Thestandarddeviation(SD) isameasureofthespreadofvalues in aparticular populationthat isbeinc
+studied.Thesmallerthestandard deviation,themoreclosely-grouped thevaues.Rememberthemean isthe
+arithmeticaveraqeofapopulatiomie.thesumofallvaluesofavariable inapopulation, divided by thenumber
+ofsubjectsinthat population.TheSDisthesquare-root ofthevariance.
+Inanormatdistribution
+Mean =median =mode.
+Around68ofvaluesuiewithin±1SDofhemean.
+Around95%ofthevauesuewthin±2SDofthemean
+Exactly95%ofthevalueslewithin±1.96SDofthemean(ie.2.5%ue ineachtaiofthebelcurve).
+@1MIN NDOCRINE

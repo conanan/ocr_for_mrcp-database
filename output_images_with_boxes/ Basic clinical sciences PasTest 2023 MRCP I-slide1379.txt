@@ -1,0 +1,8 @@
+Explanation
+tisthesquarerootofthevariance
+Thestandard deviation isameasureof dispersion orvarianceof asample.tisthemostofftenused measureof
+dispersionofafreauency distribution.tisequautothepositivesquarerootofthevariance.Themeanshowsus
+thevaluearoundwhichthevalues forasampleacentred.Thestandard deviation isasummary of how widely
+dispersedthesampevaluesaredispersedaroundthiscentre.
+Therefore.thisoptioniscorrect.becauseSD=thesauarerootofthevariance.
+@1MINENDOCRINE

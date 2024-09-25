@@ -1,0 +1,9 @@
+Therefore,asthepositive predictive valueistheproportion ofthosetesting positivewho actually havethe
+disease.Thespecficityistheproportiomoftruenegatives correctlyidentified bythetestThesensitivity isthe
+proportionoftruepositivescorrectly identifed bvthetest.
+Another way oflookinqatthisis
+ppV=Tuepositives/(Tuepositives+false positives)
+=21/50
+=426
+Therefore.42isthecorrectanswer.
+@1MINENDOCRINE

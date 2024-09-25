@@ -1,0 +1,22 @@
+RODS
+GramSTAINCOCC
+Actinomvces
+Bacilus
+Staphylococci
+Clostridium
+Streptococci
+Positive
+Enterococci
+Diptheria
+Listeriamonocytoaenes
+Mostothers includinq:
+Leqionella
+Campvlobacter
+Neisseria
+Ecoli
+Neqative
+Moraxella
+pseudomonas
+Proteus
+Satmonella
+@1MINENDOCRINE

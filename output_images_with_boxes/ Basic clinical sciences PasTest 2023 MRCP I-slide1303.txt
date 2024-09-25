@@ -1,0 +1,8 @@
+Explanation
+ThenumberneededtotreatNNT) isthenumberofpeoplethat need toreceiveatreatmemtforonepersonto
+benefit
+TheNNT=1absolute-riskreduction.
+Absolute-riskreduction=controtgroup incidents150/1000-new intervention qroup incidents(1001000)=
+015-01=0.05
+NNT=1/005=20
+@1MINENDOCRINE

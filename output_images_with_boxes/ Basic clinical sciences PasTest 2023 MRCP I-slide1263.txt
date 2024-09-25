@@ -1,0 +1,10 @@
+Blood pressureisnormaly distributed.For asampleof 100Asianwomen theaveraae blood pressure is50
+standarddeviation=5. standard error=1/2.
+Which oneofthefouowinq statementsiscorrect?
+10%ofAsian womenhavebloodpressurebelow 40mmHg
+weareapproximately95%confidentthatthepopulation mean blood pressureforAsian women
+lies inthe interval(49,51)
+Blood pressuremeasurememt inAsian women isnot informative
+ThemeanbloodpressureofAsian wvomen mustIe withintherange (49,51)
+Approximately95%ofAsanwomen haveblood pressures inthe range45,55)
+@1MINNDOCRINE

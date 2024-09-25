@@ -1,0 +1,14 @@
+Explanation
+Approximatety95%ofmeasurementsinthispopulationliebetween130and170mmHg
+The standard deviation(SD) isameasureofthespread ofvalues inaparticular population thatisbeing
+studied.Thesmallerthestandard deviation.themoreclosetycqrouped thevalues.Remember:themeanisthe
+arithmeticaveraqeofapopulationie.thesumofalvaluesofavariableinapopulation.divided bvthenumber
+ofsubjectsinthat population.TheSDisthesquare-root ofthevariance.
+Inanormaudistribution
+Around68%
+valueslie within
+SDofthemean.
+Around95%ofthevaluesewthin±2SDofthemean.
+Exactty95%ofthevalueslewithin±196SDofhemeanfie.2.5leineachtaiu ofthebelcurve).
+Inthis particularquestion,heSD=10thesauare-root ofthevariance,100).Therefore.as weknow that95%
+ofvalueslewithin±2SDsofhemean.this would aive usaranaeof130-170mmHa

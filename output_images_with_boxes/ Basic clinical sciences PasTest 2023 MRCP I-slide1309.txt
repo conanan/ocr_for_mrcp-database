@@ -1,0 +1,6 @@
+Explanation
+ANOVA
+Theanalysisofvariance(ANOvA) is used whenyouwamttocomparetwoor moremeans.In this casewe
+havethreemeanswe wishtocompare,those without TB,thosewithprimaryTB andthose with disseminated
+fulminantTB.
+@1MINENDOCRINE

@@ -1,0 +1,7 @@
+Whatdoesthe p-valuerefer to when considering conventionaLtriaL statistics?
+valuethatisalwaysess than0.05
+Theprobability of having incorrectlyrejected thenuL hypothesis
+Theprobabilitythattheresutofthestudy was obtained by chance
+Theprobabiitythatthealternative hypothesis istrue
+Theprobabilitythathenuuhypothessistrue
+@1MIN ENDOCRINE

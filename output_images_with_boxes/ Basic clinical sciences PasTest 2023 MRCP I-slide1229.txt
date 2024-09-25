@@ -1,0 +1,7 @@
+Explanation
+Mutipeuinearrearession
+Theauestionisaskinausforatesttocompareacontinuousordinauvariableananxietv scalebetween atest
+andcontroLaroup.Thesearoupsdonothavematchedbaselinecharacteristicsthatareootentiatconfounders
+(ageandsex).sowe needtouse amethod wherethesecan becorrected forin analysis.Therefore,thebest
+optionherethatftsauoftheabovecrteria ismultipleuinear reqression.
+@1MINENDOCRINE

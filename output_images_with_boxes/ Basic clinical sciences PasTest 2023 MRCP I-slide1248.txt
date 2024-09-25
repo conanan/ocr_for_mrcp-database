@@ -1,0 +1,9 @@
+In studycomparing incidencerates of maLignantmeLanoma betweenasamplefromAustralia and a
+samplefrom Norway,how is the power of astatisticattestemploved to study differences between
+samples best defined?
+Theprobability ofnotrejectingthenulL hypothesis whent is false
+Theprobability of notrejectinqthenult hypothesis whemtistrue
+Theprobability of obtainingastatistically significamtresut
+Theprobability ofrejectingthe nul hypothesiswhentisfalse
+Theprobability ofrejectinqthenuu hypothesiswhentistrue
+@1MINNDOCRINE

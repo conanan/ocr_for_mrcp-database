@@ -1,0 +1,10 @@
+Explanation
+95%confdenceuimitsfortheannuaureductionimnFvCareapproximatety 59.6muand60.4mt
+Whentakinaadatasetfrom asubset
+thepopulation andcalculatingthemean.youwanttosaytis
+equivalenttothemeanofthewholepopulation;however.thetwomeans areusualy not equaL.Therefore,a
+confidence intervauof95%savsthatyouare95%confident thatthemeanoftheentirepopulation is withina
+certain range.
+Confidenceinterval=Mean+. 1.96x(Standard Deviation/Root of sampe size)
+Confidence interval=60+L196x4/rootof400)=60+L04
+@1MINENDOCRINE

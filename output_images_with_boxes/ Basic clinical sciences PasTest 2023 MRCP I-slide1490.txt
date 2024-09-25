@@ -1,0 +1,6 @@
+Explanation
+Paired sampesttest
+Inthisstudywe arelookinqatrepeatmeasures in the same individuas.ie.thesamples are paired or
+dependent.Therefore.thebestanswerhereistouseapaired samples t-testcomparingalbumin levels before
+and aftera3-week hospitatstav
+@1MINENDOCRINE

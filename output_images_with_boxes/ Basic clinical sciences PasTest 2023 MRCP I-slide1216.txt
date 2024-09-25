@@ -1,0 +1,19 @@
+Anew blood screening testfor bowetucancer istrialledin5000 patients todeterminethesuitabilityfora
+nationauscreeningprocess.Thepresenceor absemce of boweu malignancy isestablished by faecatoccut blood
+testinqfolowedbv subseauentcolonscopv.Thetriaudataisdetailed beLowg
+NoCancer
+TotaL
+Cancer
+620
+180
+800
+Positive
+4180
+20
+4200
+Negative
+200
+4800
+5000
+Total
+@1MINENDOCRINE

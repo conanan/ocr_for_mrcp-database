@@ -1,0 +1,29 @@
+AnnexFlowchart 1.ScreeningforDiabetic Retinopathy
+Diabetes History; Medical Histonys Current Medicatiom; Biochemical Parameters
+UncorrectedVisual AcuityVA
+Oohthalmoscopy or Fundus Photography
+withcurrent Spectaces
+Djabetic Retinopathy
+VA6/12
+VA better
+Midor
+SevereNPDR.DME
+None
+han6/12
+(20/40)o
+or PDR
+Moderate
+worse
+(20/40)
+NPDR
+Non-urgentReferralfor refraction
+Routinere-
+Urgent Referral
+and assessment
+examination
+*Neemdtooptimize medicaltreatment; gycemic contro.hypertensiom and lipids.
+NPDR= non-prolferative diabeticretinopathy
+PDR= proliferative diabeticretinopathy
+DME=diabetic macuiar edema
+MA=visual acuity
+@1MINENDOCRINE

@@ -1,0 +1,11 @@
+Twenty-threeconsecutive adut patients attendingaDermatoloqy OutpatientsCuinic withatopicdermatitis are
+assessed withthesxarea,sxsgn,atopic dermatitis SASSAD) score.ThemeanSASSAD scoreisfoundtobe
+28witha95%confidenceintervuof26.5to29.5
+Which oneofthefouowinq statementsbestdescribesthe interpretationofthe95%confidence interva?
+95%ofpatiensinhispopulationhaveanSASSAD score betwveen 26.5and 29.5
+95%oftheentireukadutpopulationwilhaveanSASSADscorebetween26.5and29.5
+95%ofthepatientsinhesampleof23hadanSASSAD scorebetween 26.5and29.5
+weare95%confdentthatthemeanSASSADscoreintheUkadutpopulationisbeuween 26.5
+and295
+weare95%confidentthathemeanSASSADscoreinthispopulationis between265and29.5
+@1MINNDOCRINE

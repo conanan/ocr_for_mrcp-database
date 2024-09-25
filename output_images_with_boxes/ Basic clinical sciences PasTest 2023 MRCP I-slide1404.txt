@@ -1,0 +1,6 @@
+Explanation
+A95%confidence intervaumeansthathereisontya5%chancehathetuemeanvalueforhe
+variableliesoutsidetherangesauoted
+Aconfidence intervatof95%meansthatwewouldexpectthetruepopulation parametertofau withinthe
+intervatestimates95%ofthetime.
+@1MINENDOCRINE

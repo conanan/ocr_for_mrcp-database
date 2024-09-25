@@ -1,0 +1,10 @@
+Astudyvmeasurinqdiseasespreadinapopulationisbeinaconducted.Eachmemberofthepopulationhasan
+independent probabuiuy of 25%ofcarryinqthedisease.A random sampleof 12peopeistaken to study
+Whatisthedistribution ofthenumberofpeoplecarryinathedisease imtherandom sampleof12peopue
+drawn fromthis population?
+BinomiaLwithn=12.0=025
+Chi-sauared with3deqreesoffreedom
+Normauwithmean=3. standard deviation=15
+Poissonwithlambda=3
+Uniformwith p=112
+01MINENDOCRINE

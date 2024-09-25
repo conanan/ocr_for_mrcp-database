@@ -1,0 +1,6 @@
+Explanation
+50%ofpatientsstavyedbetween 2and10days
+Remember:themedianishe“middle"valueinasamplepopulation.The interquartileranaerepresents±25%
+ofthepopulationeithersideofthemedian.Therefore,50of patients stayved between thelenaths of stayof
+theinterauartilerange.
+@1MINENDOCRINE

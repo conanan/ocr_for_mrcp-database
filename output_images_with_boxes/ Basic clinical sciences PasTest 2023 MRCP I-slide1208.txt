@@ -1,0 +1,13 @@
+Themean aqeof patientsadmitted to acutehospitals intheUkisreportedtobe55years.Therecords of100
+consecutiveadmissionstoasinalehospitauarebeinaexamined totestwhether admissionstothishospitauare
+olderoryoungerthanaverage.Themeanaqeofthe100admissions is58years,with astandard deviation of
+1.76.p=
+17years.Aone-samplettest isusedtocomparethistothenationauaveraqeandisreported as'
+0.08
+WhatconcLusion can be bestdrawn fromthis testusinq a95% confidence level?
+Themeanaqeofadmissions tothishospitatis55years
+Themeanageof admissionstothis hospitaL is58years
+Themeanaqeofadmissionstothishospitauisnoteauatto55years
+Wecannot rejectthehypothesisthatthemeanaqeis55years
+Wecannot rejectthehypothesisthatthemean aqeis58years
+@1MIN NDOCRINE

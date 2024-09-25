@@ -1,0 +1,8 @@
+Which oneof hisdrugs should be discontinued?
+Ramipri
+Amlodipine
+Indapamide
+Ortistat
+Metformin
+21383
+@1MINENDOCRINE

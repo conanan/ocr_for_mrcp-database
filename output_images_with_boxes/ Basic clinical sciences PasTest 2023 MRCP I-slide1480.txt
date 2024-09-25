@@ -1,0 +1,16 @@
+Explanation
+standard deviations(ie2.00to 5.00uitres)
+Mean
+Thestandard deviationSD) isameasureofthespread ofvalues inaparticular populationthatisbeina
+studied.Thesmauerthestandard deviation.themorecoselv-aroupedthevaues.Rememberthemeanisthe
+arithmeticaverageofapopulationie.thesumofalvalues ofavariable inapopulation,divided by thenumbe
+ofsubject
+thatpopulation.
+Inanormatdistribution:
+Around68%ofvaluesuewithin±1SDofthemean.
+Around95%ofthevalueslewithin±2SDofthemean.
+Exacty95%ofthevauesuewithin±196sDofthemean(ie.25%ueineachtauofthebeucurve).
+99.72%ofthevauelewthin±3SD
+Tnerefore,inthisauestion.weareuookinqfortheoptionwhere95%oftheoopulationiscontainedwthin
+SDsofthemean.
+@1MIN NDOCRINE

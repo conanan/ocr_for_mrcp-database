@@ -1,0 +1,12 @@
+Anunpairedttest isused
+comparethemeanheightintwopopulations.A random sampleistakenfrom
+each population andthedifferenceinsamplemeansis10cm.wtha95%confdenceintervaufrom-2cmto
+22cm.
+Ifthetruemeansinthetwopopulationsare150cmand165cm,which oneofthefollowing statements
+iscorrect?
+paired t-test should havebeenused
+A type-1errorhasoccurred
+Atype-2error hasoccurred
+Thetest showswecanbe95%surethereisadifference
+Thereisnodifferenceinheiahtbetweenthetopopulations
+@1MIiN NDOCRINE

@@ -1,0 +1,15 @@
+Normal pressurerange(mmHg)
+Site
+(systoticdiastolic)
+3-8
+Centrauvenous pressure
+15-308-8
+Riahtventricular pressure
+15-25/4-12
+Pulmonamy artery pressure
+Pulmonary capillary wedge pressure(equivalentto etatriat
+2-15
+pressure
+100-1403-12
+Letventricular pressure
+@1MINENDOCRINE

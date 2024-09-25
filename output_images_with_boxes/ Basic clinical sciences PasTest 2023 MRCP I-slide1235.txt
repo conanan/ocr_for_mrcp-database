@@ -1,0 +1,6 @@
+Explanation
+13t015
+Standarddeviation SD) =variance=16=4.
+Standarderror SE)=SD/ wn=4/v64=4/8=0.5
+95%confidence intervau=Mean±土2xSE=14±(2x05)=14±1=13to15.
+@1MINENDOCRINE
